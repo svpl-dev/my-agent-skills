@@ -1,0 +1,24 @@
+{
+  "skills": [
+    {
+      "name": "gemini-api",
+      "description": "Gemini API on Agent Platform",
+      "path": "gemini-api"
+    },
+    {
+      "name": "firebase-basics",
+      "description": "Firebase Basics Integration",
+      "path": "firebase-basics"
+    },
+    {
+      "name": "bigquery-basics",
+      "description": "BigQuery Basics Integration",
+      "path": "bigquery-basics"
+    },
+    {
+      "name": "cloud-run-basics",
+      "description": "Cloud Run Basics Integration",
+      "path": "cloud-run-basics"
+    }
+  ]
+}
