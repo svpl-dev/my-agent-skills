@@ -2,23 +2,33 @@
   "skills": [
     {
       "name": "gemini-api",
-      "description": "Gemini API on Agent Platform",
+      "description": "AI Integration for Web App (Chatbot, Data Generation)",
       "path": "gemini-api"
     },
     {
+      "name": "cloud-run-basics",
+      "description": "Deploy Backend Server / Containerized Web App",
+      "path": "cloud-run-basics"
+    },
+    {
+      "name": "alloydb-basics",
+      "description": "High-Performance Enterprise Database for Web Scale",
+      "path": "alloydb-basics"
+    },
+    {
+      "name": "cloud-sql-basics",
+      "description": "Relational Database SQL for User & Application Data",
+      "path": "cloud-sql-basics"
+    },
+    {
       "name": "firebase-basics",
-      "description": "Firebase Basics Integration",
+      "description": "Authentication, Real-time Database & Web Hosting",
       "path": "firebase-basics"
     },
     {
       "name": "bigquery-basics",
-      "description": "BigQuery Basics Integration",
+      "description": "Web Data Analytics & Big Data Processing",
       "path": "bigquery-basics"
-    },
-    {
-      "name": "cloud-run-basics",
-      "description": "Cloud Run Basics Integration",
-      "path": "cloud-run-basics"
     }
   ]
 }
